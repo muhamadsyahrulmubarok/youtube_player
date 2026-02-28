@@ -1,0 +1,23 @@
+1
+00:00:01,000 --> 00:00:04,000
+Welcome to this demo video
+
+2
+00:00:04,500 --> 00:00:08,000
+This subtitle file was uploaded
+to test the YouTube Subtitle Player
+
+3
+00:00:08,500 --> 00:00:12,000
+The subtitles sync with the video
+playback time automatically
+
+4
+00:00:12,500 --> 00:00:16,000
+You can upload any .srt file
+to watch with custom subtitles
+
+5
+00:00:16,500 --> 00:00:20,000
+Enjoy watching YouTube videos
+with your own subtitle files!
